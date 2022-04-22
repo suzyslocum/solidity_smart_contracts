@@ -1,6 +1,6 @@
 # Automate the Creation of Joint Savings Accounts with Solidity Smart Contracts
 
-*Module 20 Challenge Assignment *
+*Module 20 Challenge Assignment*
 
 ---
 
